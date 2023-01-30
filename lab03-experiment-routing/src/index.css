@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  /* background-image: linear-gradient(
+    135deg,
+    #28313b 0%,
+    #351414 52%,
+    #485461 100%
+  ); */
+  background-color: black;
+  object-fit: fill;
+  color: aliceblue;
+}

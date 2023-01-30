@@ -1,0 +1,18 @@
+.album-icon {
+  width: 72px;
+  border-radius: 50%;
+  border: 2px solid white;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  margin: 10px;
+  padding: 0;
+}
